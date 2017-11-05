@@ -19,11 +19,11 @@
 # File Overview
 File 		| Description
 --------------- | -------------
-main.tf		- Creation of EC2 instance
-securitygroup.tf- Security group creation
-vars.tf		- Variable declaration
-vpc.tf		- VPC, subnet,IGW,Route table creation
-provider.tf	- Specify which provider to be used
+main.tf		| Creation of EC2 instance
+securitygroup.tf| Security group creation
+vars.tf		| Variable declaration
+vpc.tf		| VPC, subnet,IGW,Route table creation
+provider.tf	| Specify which provider to be used
 
 # Dependency
 private key file  - *.pem file
